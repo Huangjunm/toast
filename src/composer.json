@@ -1,0 +1,12 @@
+{
+    "name": "huangjunm/toast",
+    "description": "toastr for laravel 5",
+    "type": "lib",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"junming\\": "src/"
+    	} 
+    }
+}
