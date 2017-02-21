@@ -1,7 +1,7 @@
 {
     "name": "huangjunm/toast",
     "description": "toastr for laravel 5",
-    "type": "lib",
+    "type": "library",
     "license": "MIT",
     "authors": [
     {
