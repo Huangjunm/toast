@@ -2,6 +2,13 @@
     "name": "huangjunm/toast",
     "description": "toastr for laravel 5",
     "type": "lib",
+    "license": "MIT",
+    "authors": [
+    {
+      "name": "Huangjunm",
+      "email": "912868206@qq.com"
+    }
+   ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
